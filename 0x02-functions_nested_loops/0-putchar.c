@@ -1,4 +1,4 @@
-#include "main.h"
+#include <stdio.h>
 
 
 /**
@@ -10,7 +10,7 @@
 
 int main (void)
 {
-	putchar('');
+	char putchar('');
       _putchar('p');
       _putchar('u');
       _putchar('t');
